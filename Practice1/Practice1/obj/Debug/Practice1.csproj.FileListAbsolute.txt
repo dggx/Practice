@@ -1,0 +1,6 @@
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice1\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice1\Practice1\bin\Debug\Practice1.exe
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice1\Practice1\bin\Debug\Practice1.pdb
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice1\Practice1\obj\Debug\Practice1.csprojResolveAssemblyReference.cache
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice1\Practice1\obj\Debug\Practice1.exe
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice1\Practice1\obj\Debug\Practice1.pdb
