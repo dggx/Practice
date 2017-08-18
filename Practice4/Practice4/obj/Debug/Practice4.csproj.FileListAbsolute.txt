@@ -1,0 +1,10 @@
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice4\Practice4\bin\Debug\Practice4.exe.config
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice4\Practice4\bin\Debug\Practice4.exe
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice4\Practice4\bin\Debug\Practice4.pdb
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice4\Practice4\obj\Debug\Practice4.exe
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice4\Practice4\obj\Debug\Practice4.pdb
+C:\Users\Seongjin Cheon\Documents\GitHub\Practice\Practice4\Practice4\bin\Debug\Practice4.exe.config
+C:\Users\Seongjin Cheon\Documents\GitHub\Practice\Practice4\Practice4\bin\Debug\Practice4.exe
+C:\Users\Seongjin Cheon\Documents\GitHub\Practice\Practice4\Practice4\bin\Debug\Practice4.pdb
+C:\Users\Seongjin Cheon\Documents\GitHub\Practice\Practice4\Practice4\obj\Debug\Practice4.exe
+C:\Users\Seongjin Cheon\Documents\GitHub\Practice\Practice4\Practice4\obj\Debug\Practice4.pdb
