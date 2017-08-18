@@ -1,0 +1,5 @@
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\Seongjin Cheon\Desktop\Coding Practice\Practice\Practice2\Practice2\obj\Debug\Practice2.pdb
